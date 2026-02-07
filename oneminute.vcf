@@ -1,0 +1,16 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Καζάκης Χρήστος | ONE MINUTE
+N:Καζάκης;Χρήστος;;;
+ORG:ONE MINUTE (Τακούνι & Κλειδί)
+TITLE:Κλειδαράς & Επιδιορθώσεις Υποδημάτων
+TEL;TYPE=cell:+306909194414
+TEL;TYPE=work:+302814003644
+TEL;TYPE=work:+302810224197
+EMAIL;TYPE=work:chkazakis@gmail.com
+ADR;TYPE=work;LABEL="Κατάστημα Κνωσού":;;Λεωφ. Κνωσού 192;Ηράκλειο;;71409;Ελλάδα
+ADR;TYPE=work;LABEL="Κεντρικό Κατάστημα":;;Αργυράκη 18;Ηράκλειο;;71201;Ελλάδα
+URL:https://oneminute.gr/
+URL;TYPE=Facebook:https://www.facebook.com/chkazakis/?locale=el_GR
+NOTE:24/7 Υπηρεσίες Κλειδαρά. Κλειδιά, Υποδήματα, Επιδιορθώσεις.
+END:VCARD
